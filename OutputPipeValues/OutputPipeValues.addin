@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\OutputPipeValues.dll"</Assembly>
+		<AddInId>C6406A00-B987-4241-A826-B99AC1742985</AddInId>
+		<FullClassName>OutputPipeValues.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>Запись данных труб в EXCEL</Text>	
+	</AddIn>
+</RevitAddIns>
+
+

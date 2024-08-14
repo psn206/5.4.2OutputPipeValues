@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputPipeValues", "OutputPipeValues\OutputPipeValues.csproj", "{F8AF970E-B59C-4F44-B6FA-8D5B9DA1FE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8AF970E-B59C-4F44-B6FA-8D5B9DA1FE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AF970E-B59C-4F44-B6FA-8D5B9DA1FE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AF970E-B59C-4F44-B6FA-8D5B9DA1FE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AF970E-B59C-4F44-B6FA-8D5B9DA1FE65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3A724A-D3DC-499E-8978-FC16A6D1DDD2}
+	EndGlobalSection
+EndGlobal
